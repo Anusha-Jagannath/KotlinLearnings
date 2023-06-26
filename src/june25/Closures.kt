@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
     var result = 0;
     var program = Program()
     program.addTwoNumbers(2, 3, { x, y -> result = x + y })
-    println("The result is " + resultg)
+    println("The result is " + result)
 
 }
 
